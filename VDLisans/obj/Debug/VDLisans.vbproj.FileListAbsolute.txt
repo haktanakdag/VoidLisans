@@ -1,0 +1,12 @@
+C:\vs\VDLisans\VDLisans\bin\Debug\VDLisans.exe.config
+C:\vs\VDLisans\VDLisans\bin\Debug\VDLisans.exe
+C:\vs\VDLisans\VDLisans\bin\Debug\VDLisans.pdb
+C:\vs\VDLisans\VDLisans\bin\Debug\VDLisans.xml
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.vbprojAssemblyReference.cache
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.Form1.resources
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.Resources.resources
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.vbproj.GenerateResource.cache
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.vbproj.CoreCompileInputs.cache
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.exe
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.xml
+C:\vs\VDLisans\VDLisans\obj\Debug\VDLisans.pdb
